@@ -1,0 +1,5 @@
+galcore-headers (1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- unknown <unknown>  Tue, 02 Dec 2014 23:51:41 +0100
